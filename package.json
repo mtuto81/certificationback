@@ -3,6 +3,8 @@
 	"author": "Toulio Denis Pyrrhon",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
+	"license": "MIT",
+
 
 	"version": "1.0.0",
 	"dependencies": {
